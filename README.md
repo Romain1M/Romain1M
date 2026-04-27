@@ -1,7 +1,7 @@
 # Hello, moi c'est Romain °‿°
 
 Étudiant en **BUT Informatique** (2ᵉ année) à l'IUT2 de Grenoble, spécialisé en développement d'applications.  
-Je recherche un **stage de 8 à 10 semaines** en développement web / back-end — avril à juillet 2026.
+Je recherche un **stage de 8 à 10 semaines** en développement tout type.
 
 ---
 
